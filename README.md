@@ -1,3 +1,3 @@
 # Criando_oJogo_daCobrinha
- Criar o Jogo da cobrinha usando o JavaScript 
- Continuando o desenvolvimento do jogo
+ #Criar o Jogo da cobrinha usando o JavaScript 
+ ** Digital Innovation One**
